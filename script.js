@@ -9,4 +9,4 @@ function firstNonRepeatedChar(str) {
 
 const input = prompt("Enter a string");
 const result = firstNonRepeatedChar(input);
-alert(result === null ? "null" : result);
+alert(result);
